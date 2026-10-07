@@ -1,10 +1,10 @@
-# 😎 Real-Time Emotion Recognition System
+#Real-Time Emotion Recognition System
 
 A deep learning-based real-time facial emotion recognition system that detects human emotions from live webcam feed.
 
 ---
 
-## 🚀 Features
+##  Features
 
 ✅ Real-time face detection  
 ✅ Emotion classification using CNN  
@@ -14,7 +14,7 @@ A deep learning-based real-time facial emotion recognition system that detects h
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - Python
 - TensorFlow / Keras
@@ -24,7 +24,7 @@ A deep learning-based real-time facial emotion recognition system that detects h
 
 ---
 
-## 🎯 Model Details
+##  Model Details
 
 - Convolutional Neural Network (CNN)
 - Trained on FER-2013 Dataset
@@ -32,13 +32,7 @@ A deep learning-based real-time facial emotion recognition system that detects h
 
 ---
 
-## 🌍 Live Demo
-
-👉 [Click Here to Try the App](YOUR_STREAMLIT_URL_HERE)
-
----
-
-## 📸 How It Works
+##  How It Works
 
 1️⃣ Detect face using Haar Cascade  
 2️⃣ Extract face ROI  
@@ -48,7 +42,7 @@ A deep learning-based real-time facial emotion recognition system that detects h
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
 - Hand gesture emotion control
 - Emotion analytics dashboard
@@ -56,7 +50,3 @@ A deep learning-based real-time facial emotion recognition system that detects h
 - Model optimization (TensorFlow Lite)
 
 ---
-
-## 👨‍💻 Author
-
-Developed by Nitin Ravi 🚀
